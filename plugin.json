@@ -1,0 +1,7 @@
+{
+  "id": "connections-manager",
+  "name": "Connections Manager",
+  "sourceRepository": "https://github.com/GoblinRules/ecpa-plugins",
+  "sourcePath": "plugins/connections-manager",
+  "registry": "https://raw.githubusercontent.com/GoblinRules/ecpa-plugins/master/registry.json"
+}
